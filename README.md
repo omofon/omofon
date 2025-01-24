@@ -9,10 +9,9 @@
 </div>
 
 <!-- Intro Section -->
-<p align="center">
+<p align="left">
   - 👀 I’m interested in Cloud Computing 🌥️<br/>
   - ☑️ Open to collaborating on exciting projects ✌🏻<br/>
-  - 📫 Reach out to me through my social links below! 👇🏻<br/>
 </p>
 
 </br>
@@ -36,16 +35,3 @@
 </br>
 <hr style="height:2px;#8080ff;border-width:0;border-radius:5px;color:gray;background-color:#8080ff">
 </br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Programming Language:
-
-<p align="center">
-<a href="https://www.python.org/"><img alt="Python" src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
-</p>
-
-</br>
-<hr style="height:2px;#8080ff;border-width:0;border-radius:5px;color:gray;background-color:#8080ff">
-</br>
-
-<!-- Horizontal Divider (Gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
