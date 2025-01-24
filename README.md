@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- Horizontal Divider (Gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**omofz/omofz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- H1 Without Bottom Border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Abasi-omofon Udoh.</h1></summary>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+<!-- Intro Section -->
+<p align="center">
+  - 👀 I’m interested in Cloud Computing 🌥️<br/>
+  - ☑️ Open to collaborating on exciting projects ✌🏻<br/>
+  - 📫 Reach out to me through my social links below! 👇🏻<br/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+<hr style="height:2px;#8080ff;border-width:0;border-radius:5px;color:gray;background-color:#8080ff">
+</br>
+
+<!-- Connect With Me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<!-- Icons and Links -->
+<p align="center">
+<a href="mailto:abasiomofonudoh@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" alt="gmail" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/abasiomofon-udoh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/omof0n" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+</p>
+
+</br>
+<hr style="height:2px;#8080ff;border-width:0;border-radius:5px;color:gray;background-color:#8080ff">
+</br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Programming Language:
+
+<p align="center">
+<a href="https://www.python.org/"><img alt="Python" src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
+</p>
+
+</br>
+<hr style="height:2px;#8080ff;border-width:0;border-radius:5px;color:gray;background-color:#8080ff">
+</br>
+
+<!-- Horizontal Divider (Gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
