@@ -10,7 +10,7 @@
 
 <!-- Intro Section -->
 <p align="left">
-  - 👀 I’m interested in Cloud Computing 🌥️<br/>
+  - 👀 I’m finding my way here. 👨‍🦯<br/>
   - ☑️ Open to collaborating on exciting projects ✌🏻<br/>
 </p>
 
