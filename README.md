@@ -10,7 +10,7 @@
 
 <!-- Intro Section -->
 <p align="left">
-  - 👀 I’m a software developer. 💻br/>
+  - 👀 I’m a software developer. 💻<br/>
   - ☑️ Open to collaborating on exciting projects ✌🏻<br/>
 </p>
 
@@ -37,7 +37,7 @@
 </br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Programming Languages:
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Programming Languages:</h2>
 
 <p align="center">
 <a href="https://www.python.org/"><img alt="Python" src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
