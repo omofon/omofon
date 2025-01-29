@@ -10,7 +10,7 @@
 
 <!-- Intro Section -->
 <p align="left">
-  - 👀 I’m finding my way here. 👨‍🦯<br/>
+  - 👀 I’m a software developer. 💻br/>
   - ☑️ Open to collaborating on exciting projects ✌🏻<br/>
 </p>
 
@@ -35,3 +35,12 @@
 </br>
 <hr style="height:2px;#8080ff;border-width:0;border-radius:5px;color:gray;background-color:#8080ff">
 </br>
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Programming Languages:
+
+<p align="center">
+<a href="https://www.python.org/"><img alt="Python" src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
+<a href="https://html.com/#What_is_HTML"><img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
