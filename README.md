@@ -39,14 +39,6 @@
 <a href="https://twitter.com/omof0n" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 </p>
 
-<!-- Profile Visit Count -->
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Omofon&icon=3&color=6" alt="Profile Visit Count">
-  </a>
-</div>
-
-
 </br>
 <hr style="height:2px;#8080ff;border-width:0;border-radius:5px;color:gray;background-color:#8080ff">
 </br>
@@ -77,12 +69,12 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omofon&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omofz&theme=dark&show_icons=true&count_private=true" />
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omofon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Omofon&theme=dark&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omofon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omofz&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Omofon&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omofz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
