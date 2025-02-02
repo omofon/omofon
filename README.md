@@ -9,14 +9,8 @@
 </div>
 
 <!-- Intro Section -->
-<p align="center">
+<p align="left">
   - 👀 I’m a Software Developer 💻<br/>
-  - ✔️ <strong>Meta Certified Backend Developer</strong> ☑️<br/>
-  - 👨🏻‍💻 Currently developing and maintaining backend applications 📱<br/>
-  - 🤖 Interested in <strong>Backend Development, Cloud Management, AI/ML integration, and more</strong> ☁️<br/>
-  - 💻 Skilled in <strong>containerization</strong> using Docker and Kubernetes 📦<br/>
-  - 💾 Worked extensively with <strong>SQL (PostgreSQL, MySQL)</strong> and <strong>NoSQL (MongoDB)</strong> databases 📅<br/>
-  - ☁️ Deployed applications on <strong>AWS</strong>, using services like <strong>S3 buckets</strong> and EC2 for scalable hosting 🏦<br/>
   - ☑️ Open to collaborating on exciting projects ✌🏻<br/>
   - 📫 Reach out to me through my social links below! 👇🏻<br/>
 </p>
