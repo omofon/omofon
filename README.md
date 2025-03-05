@@ -39,7 +39,7 @@
 <p>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=omofz&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=omofz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=omofz&theme=darcula&hide_border=true&background=FFFFFF00">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=omofz&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Social Links -->
@@ -47,4 +47,5 @@
 <p>
   <a href="https://linkedin.com/in/omofon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/omof0n"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://dev.to/omof0n"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </p>
