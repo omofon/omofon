@@ -70,10 +70,9 @@
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 <div style="text-align: center;">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=omofz&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=omofz&hide_border=true" alt="GitHub Streak">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=omofz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="omofz's Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omofz&theme=vue-dark&hide_border=true" alt="omofz's Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omofz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="omofz's Top Languages">
 </div>
 
 <!-- Visitor Count -->
