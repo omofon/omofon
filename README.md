@@ -77,6 +77,7 @@
 </div>
 
 <!-- Visitor Count -->
+<h2>🔢 Visitors' Count</h2>
 <div style="text-align: center;">
   <img src="https://profile-counter.glitch.me/omofz/count.svg" alt="Visitor Count">
 </div>
