@@ -7,12 +7,12 @@
 <div style="text-align: center;">
   <h1>Hey, I'm Omofon 👋</h1>
   <p>
-    <strong>Automation Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast</strong>
+    <strong>Automation Engineer | Backend Developer | Cloud & DevOps Enthusiast</strong>
   </p>
   <p>
-    💻 I write scripts, automate workflows, and build full-stack applications <br>
+    💻 I write scripts, automate workflows, and build backend applications <br>
     ☁️ Currently learning Cloud & DevOps <br>
-    🔧 Experienced with backend and frontend technologies <br>
+    🔧 Experienced with backend technologies <br>
     🤝 Open to collaborations on innovative projects <br>
   </p>
 </div>
@@ -33,11 +33,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <br><br>
-  <!-- Frontend -->
-  Frontend: 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <br><br>
   <!-- Databases -->
   Databases: 
@@ -70,9 +65,9 @@
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=omofz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="omofz's Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omofz&theme=vue-dark&hide_border=true" alt="omofz's Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omofz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="omofz's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=omofz&theme=default&show_icons=true&hide_border=true&count_private=true" alt="omofz's Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omofz&theme=default&hide_border=true" alt="omofz's Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omofz&theme=default&show_icons=true&hide_border=true&layout=compact" alt="omofz's Top Languages">
 </div>
 
 <!-- Visitor Count -->
