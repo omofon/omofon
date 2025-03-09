@@ -62,6 +62,14 @@
   <a href="https://dev.to/omof0n"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
 </div>
 
+<!-- Quote -->
+<br>
+<blockquote>
+  "Strive not to be a success, but to be of value."
+  <br>
+  <strong>— Albert Einstein</strong>
+</blockquote>
+
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 <div style="text-align: center;">
