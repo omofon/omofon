@@ -75,8 +75,8 @@
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=omofz&theme=default&show_icons=true&hide_border=true&count_private=true" alt="omofz's Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omofz&theme=default&hide_border=true" alt="omofz's Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omofz&theme=default&show_icons=true&hide_border=true&layout=compact" alt="omofz's Languages">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omofz&theme=default&show_icons=true&hide_border=true&layout=compact&hide_progress=true" alt="omofz's Languages">
+ 
 </div>
 
 <!-- Visitor Count -->
