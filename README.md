@@ -62,13 +62,6 @@ const omofon = {
 
 </div>
 
-## 🏆 Achievement Unlocked
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=omofon&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-</div>
 
 ## 📈 Contribution Activity
 
