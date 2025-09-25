@@ -82,14 +82,7 @@ const omofon = {
 **"The best way to predict the future is to create it!"** 🚀
 </div>
 
----
-
 <div align="center">
-  
-![Profile views](https://komarev.com/ghpvc/?username=omofon&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/omofon?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/omofon?label=Total%20Stars&style=social)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
 <sub>💙 Thanks for stopping by! Now go check out my repositories below! 👇</sub>
