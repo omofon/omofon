@@ -79,17 +79,7 @@ const omofon = {
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omofon)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omofon.u@gmail.com)
 
-</div>
-
-## ⚡ Fun Zone
-
-<div align="center">
-  
-### 🎮 When I'm not coding:
-🎯 Building side projects • 📚 Learning new tech • 🎵 Vibing to music • 🎮 Gaming • ⚽ Football
-
 **"The best way to predict the future is to create it!"** 🚀
-
 </div>
 
 ---
