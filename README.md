@@ -27,7 +27,7 @@ const omofon = {
 - 💡 Love creating **seamless user experiences** with React Native
 - 🎯 Always up for **exciting challenges** and **innovative projects**
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal -
 
 <div align="center">
   
