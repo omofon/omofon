@@ -52,16 +52,6 @@ const omofon = {
 
 </div>
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  
-![Omofon's GitHub stats](https://github-readme-stats.vercel.app/api?username=omofon&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omofon&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
 
 ## 📈 Contribution Activity
 
