@@ -27,16 +27,6 @@ const omofon = {
 - 💡 Love creating **seamless user experiences** with React Native
 - 🎯 Always up for **exciting challenges** and **innovative projects**
 
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omofon&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
 ## 🤝 Let's Connect & Build Something Epic!
 
 <div align="center">
